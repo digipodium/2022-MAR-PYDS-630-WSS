@@ -1,0 +1,5 @@
+One of the biggest reasons that people get into coding is to learn how to make their own games. However, every gaming genre has its own quirks and requirements to learn in order to successfully create your own game, especially when it comes to RPGs.
+
+RPGs are one of the oldest and best-known game genres, taking in the likes of Final Fantasy, Pokemon, The Elder Scrolls and a variety of other famous series. The appeal of creating your own RPG is the ability to craft your own fantastic world and tell an epic story – but to do that, you first need to know how to actually code an RPG.
+
+We’ve compiled some of the best RPG tutorials available to help you start your journey into creating your very own RPG. Whether you’re a novice coder or an experienced game-maker looking to expand your skill set, these tutorials cover all the skills you’ll need to craft your first RPG.
